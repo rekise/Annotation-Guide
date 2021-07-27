@@ -38,7 +38,7 @@
  
 The task is structured to generate **annotated dataset** by succesfully converting _raw image_ data into training dataset for **Rekise's** machine vision model inorder to implement shipping containers detection along with the specification labels associated with the container.
 
-![images](Images/Screenshot (245).png)
+![images](https://drive.google.com/uc?export=view&id=1lj4Wo7g8CzQLu7xDwk43bVOppJjcfrfu)
 <p align="right">
 <sub>(Preview)</sub>
 </p>
