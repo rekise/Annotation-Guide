@@ -49,7 +49,7 @@ The task is structured to generate **annotated dataset** by succesfully converti
 Terminology
 ---
   ### Label
-  - Labels assign defined category to different components in the image data set. 
+  - Labels assign defined category to different components in an image data set. 
   - It correctly identifies the shipment containers along with the associated parameters.
 
   
@@ -68,7 +68,7 @@ Jobs
 ---
   ### Container
 
-  - Start with creating bounding boxes around the container .
+  - Start with creating bounding boxes around the container.
   - Label entirely around the object with maximum proximity.
     
     
