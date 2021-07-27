@@ -221,6 +221,6 @@ The check digit |  one Arabic numeral providing a means of validating the record
   
  ![image](https://drive.google.com/uc?export=view&id=19iHUsuRCCcgWWMKOOg6K-s_GViEjxSgt)
 
-- Do not mark the distorted and blurred images for OCR labels :
+- You can leave distorted and blurred images without marking for OCR labels :
   
   ![image](https://drive.google.com/uc?export=view&id=1tB0uR2gZ5124qduP--kLZEMm30GBuuxE)
