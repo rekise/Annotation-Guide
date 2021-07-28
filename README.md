@@ -50,7 +50,7 @@ Terminology
   ![images](Images/LabelExample.jpg)
   
   
-  [Labels](#jobs) in our task
+  [Labels](#jobs) in our task:
   - Labels are used to assign defined category to different components in the image data set. 
   - It correctly identifies the shipment [Containers](#container) along with the associated parameters.
 
@@ -63,7 +63,7 @@ Terminology
   
   ![images](Images/AttributesExample.png)
   
-  Attributes in our task
+  Attributes in our task:
   - Attributes are common quality or characteristics of a labeled category.
   - It consists of properties that define different aspects of the labeled category.
   - It could be the associated  [value](#value),  [Size and Type](#size-and-type), [legiblity](#legible) etc.
