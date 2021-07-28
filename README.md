@@ -238,7 +238,7 @@ The check digit |  one Arabic numeral providing a means of validating the record
  ![image](Images/Exception_2.png)
 
 
-- The following case with an abundance of container need not be labelled.
+- The following case with no container in foreground need not be labelled.
   
  ![image](Images/Exception_3.jpg)
 
