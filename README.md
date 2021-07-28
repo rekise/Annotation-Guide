@@ -99,7 +99,7 @@ Jobs
 |✔| ![image](Images/Container_shape1.png)|   
 |❌| ![image](Images/Container_shape2.png)              |
 |  | 4.Do not overlap the bounding box with the container edges. 
-|✔| ![image](Images/Container_overalap1.png)                | 
+|✔| ![image](Images/Container_overlap1.png)                | 
 |❌| ![image](Images/Container_overlap2.png)              |
 |  | 5.Container codes with blurring should not be labelled but can be included as a container attribute  
 |✔| ![image](Images/Container_Blur.png)                | 
