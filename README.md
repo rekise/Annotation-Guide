@@ -47,7 +47,7 @@ Terminology
   ### Label
   Definition: Labels are used to describe the characteristics or qualities of people, activities, or things. Example:-
   
- ![images](https://drive.google.com/uc?export=view&id=1EC0i_Rw_-1EdzsrxnbOzBMS6G-L7LWfc)
+  ![images](https://drive.google.com/uc?export=view&id=1EC0i_Rw_-1EdzsrxnbOzBMS6G-L7LWfc)
   
   
   [Labels](#jobs) in our task
