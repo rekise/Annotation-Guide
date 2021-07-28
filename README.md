@@ -61,7 +61,7 @@ Terminology
   ### Attribute
   Definition: Attributes are used to describe a quality or characteristic that someone or something has:
   
-  ![images](Images/AttributeExample.png)
+  ![images](Images/AttributeExample.jpg)
   
   Attributes in our task
   - Attributes are common quality or characteristics of a labeled category.
@@ -240,7 +240,7 @@ The check digit |  one Arabic numeral providing a means of validating the record
 
 - The following case with an abundance of container need not be labelled.
   
- ![image](Images/Exception_3.png)
+ ![image](Images/Exception_3.jpg)
 
 - Do not mark the distorted and blurred images for OCR labels :
   
