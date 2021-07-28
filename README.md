@@ -38,7 +38,7 @@ There are multiple [Jobs](#jobs) to be annotated and each further branches into 
 
 
 
-![images](https://drive.google.com/uc?export=view&id=1lj4Wo7g8CzQLu7xDwk43bVOppJjcfrfu)
+![images](Images/Intrduction.png)
 
 
 
@@ -47,7 +47,7 @@ Terminology
   ### Label
   Definition: Labels are used to describe the characteristics or qualities of people, activities, or things. Example:-
   
-  ![images](https://drive.google.com/uc?export=view&id=1EC0i_Rw_-1EdzsrxnbOzBMS6G-L7LWfc)
+  ![images](Images/LabelExample.jpg)
   
   
   [Labels](#jobs) in our task
@@ -56,12 +56,12 @@ Terminology
 
   
 
-    ![images](https://drive.google.com/uc?export=view&id=1Hx3AQZCfdj5Xw0qHGe44u-ddnXJkgZHS)
+    ![images](Images/LabelExample2.png)
 
   ### Attribute
   Definition: Attributes are used to describe a quality or characteristic that someone or something has:
   
-  ![images](https://drive.google.com/uc?export=view&id=1f-_2QsIU01sxF5-pCYEog6uQrqgj-h8F)
+  ![images](Images/AttributeExample.png)
   
   Attributes in our task
   - Attributes are common quality or characteristics of a labeled category.
@@ -69,7 +69,7 @@ Terminology
   - It could be the associated  [value](#value),  [Size and Type](#size-and-type), [legiblity](#legible) etc.
 
 
-  ![images](https://drive.google.com/uc?export=view&id=1E-IOlIXKl4xlAJ8QyOhYjzNV98OiLHSC)
+  ![images](Images/AttributeExample2.png)
 
 Jobs
 ---
@@ -79,7 +79,7 @@ Jobs
   
   - In this Job one is required to label the container elements defined by their fitting corners in the image dataset.
   
-  ![images](https://drive.google.com/uc?export=view&id=1LI80_kXaZ2k4kivWjckP8sn3KAMbmbt_)
+  ![images](Images/Container_1.jpg)
   - Start with creating bounding boxes around the container .
   - Label entirely around the object with maximum proximity.
     
@@ -90,27 +90,27 @@ Jobs
 |                   |        Important points   |
 | ------------------ | :----------------: | 
 | |1.Label only those images where corner fits are clearly visible    | 
-|✔|![image](https://drive.google.com/uc?export=view&id=1AU8KsLsd0HtgFLUc8-r3qdWrAUD0d30V) |  |     
-|❌|![image](https://drive.google.com/uc?export=view&id=1AvVvvw7GRVV-Wy_2sD4UPLfno9s1gnbJ)               |
+|✔|![image](Images/Container_2.png) |  |     
+|❌|![image](Images/Container_3.png)               |
 | |2.There should not be a significant gap between the Bounding Box edge and the container edge |
-|✔|![image](https://drive.google.com/uc?export=view&id=1m4yvUbHYyNRlMK4W9LuU_zVPUwgkOM33)|  
-|❌|![image](https://drive.google.com/uc?export=view&id=1rEp_YU4pUXtK9ur5M3wcsuxH0u60nX9o)        |
+|✔|![image](Images/Container_4.png)|  
+|❌|![image](Images/Container_5.png)        |
 ||3.The Box Shape is required to be a rectangle    |
-|✔| ![image](https://drive.google.com/uc?export=view&id=1sCO-TK7hX9dt8_OE6KcoVjB6tAcwQ2tP)|   
-|❌| ![image](https://drive.google.com/uc?export=view&id=1slQnpEKEa1VbI_6G1pxYKQxHDiVPlXED)              |
+|✔| ![image](Images/Container_shape1.png|   
+|❌| ![image](Images/Container_shape2.png)              |
 |  | 4.Do not overlap the bounding box with the container edges. 
-|✔| ![image](https://drive.google.com/uc?export=view&id=1_eZBF0mbpZWWL1RDQceWb30H7DyQWVUo)                | 
-|❌| ![image](https://drive.google.com/uc?export=view&id=19JB9FBr2CO4yx8s9Pu6WZpjDs66XcjdN)              |
+|✔| ![image](Images/Container_overalap1.png)                | 
+|❌| ![image](Images/Container_overlap2.png)              |
 |  | 5.Container codes with blurring should not be labelled but can be included as a container attribute  
-|✔| ![image](https://drive.google.com/uc?export=view&id=1-LBe9lqxylmdgyl5xGDnHPiPKUhFV3tB)                | 
-|❌| ![image](https://drive.google.com/uc?export=view&id=1DwLu6X_RkP6Eka0LXSHz8sX9ReGD5QGF)              |
+|✔| ![image](Images/Container_Blur.png)                | 
+|❌| ![image](Images/Container_Blur2.png)              |
 
 
 #### Size and Type
 
   - Input the value associated with size and type label to identify the shipment container.
  
-    ![image](https://drive.google.com/uc?export=view&id=1DqP7uGYn7XWCi0EQIu2_75Gt1jW8PPo9)
+    ![image](Images/Container_Attribute.png)
 
 
 
@@ -126,7 +126,7 @@ Code                          |  description
 The owner prefix (BIC code)  |  Three capital letters of the Latin alphabet to indicate the owner or principal operator of the container
 The equipment category identifier: |  U for all freight containers,J for detachable freight container-related equipment, Z for trailers and chassis.
 
-![image](https://drive.google.com/uc?export=view&id=1EqBUej8G_ufVOiJAHjy14zYllI3MA3jY)
+![image](Images/OwnerCode.jpg)
 <p align="left">
 <sub>(Example )</sub>
 </p>
@@ -140,7 +140,7 @@ The equipment category identifier: |  U for all freight containers,J for detacha
 #### *value*
   Input the value representing the label.
 
-![image](https://drive.google.com/uc?export=view&id=1dEhf8NnGxgdcCqTWpg9fcbPjM-uH7Zdd)
+![image](Images/Owner_Attribute.png)
 
 
 
@@ -230,17 +230,19 @@ The check digit |  one Arabic numeral providing a means of validating the record
 - Input partially distorted or erased value as * in the value attribute field.
   - Example:
   
-  ![image](https://drive.google.com/uc?export=view&id=1-7E3a88jQ6i1yJ0UfrLFy7wNrgAf2xw9)
+  ![image](Images/Exception_1.png)
 
 - Example :
   *The following label for size and type would be considered challenging as the contrast between background and character is too low.*
 
- ![image](https://drive.google.com/uc?export=view&id=17jMrgh7CXWdLKj_-0XRzlatAKF165Xif)
+ ![image](Images/Exception_2.png)
+
 
 - The following case with an abundance of container need not be labelled.
   
- ![image](https://drive.google.com/uc?export=view&id=19iHUsuRCCcgWWMKOOg6K-s_GViEjxSgt)
+ ![image](Images/Exception_3.png)
 
 - Do not mark the distorted and blurred images for OCR labels :
   
-  ![image](https://drive.google.com/uc?export=view&id=1tB0uR2gZ5124qduP--kLZEMm30GBuuxE)
+  ![image](Images/Exception_4.png)
+
