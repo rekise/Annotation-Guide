@@ -61,7 +61,7 @@ Terminology
   ### Attribute
   Definition: Attributes are used to describe a quality or characteristic that someone or something has:
   
-  ![images](Images/AttributeExample.jpg)
+  ![images](Images/AttributesExample.png)
   
   Attributes in our task
   - Attributes are common quality or characteristics of a labeled category.
