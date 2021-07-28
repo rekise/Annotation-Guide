@@ -96,7 +96,7 @@ Jobs
 |✔|![image](Images/Container_4.png)|  
 |❌|![image](Images/Container_5.png)        |
 ||3.The Box Shape is required to be a rectangle    |
-|✔| ![image](Images/Container_shape1.png|   
+|✔| ![image](Images/Container_shape1.png)|   
 |❌| ![image](Images/Container_shape2.png)              |
 |  | 4.Do not overlap the bounding box with the container edges. 
 |✔| ![image](Images/Container_overalap1.png)                | 
