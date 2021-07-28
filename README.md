@@ -150,7 +150,7 @@ The equipment category identifier: |  U for all freight containers,J for detacha
 
 Definition: It is the container marking codes to depict the length, height and type of container in an easy to read sequence. This sequence is composed of four letters or digits that commonly appear right under the container identification sequence.
 
-![image](https://drive.google.com/uc?export=view&id=1fks8Z3vbEDFR8OOrUKFeDBAhBD0RYNSV)
+![image](Images/SizeTypeDef.png)
 
 
 
@@ -159,7 +159,7 @@ Code                         |  description
 Size  |  The container size is indicated by two alphanumeric characters defining length and height
 Type |  The container type and main characteristics is indicated by two characters
 
-![image](https://drive.google.com/uc?export=view&id=1jUN0x6lgQ9gSY_LWfZ970O0pCw2KpGO9)
+![image](Images/SizeType.png)
 <p align="left">
 <sub>(Example )</sub>
 </p>
@@ -173,7 +173,7 @@ Type |  The container type and main characteristics is indicated by two characte
 #### *value*
   Input the value representing the label.
 
-![image](https://drive.google.com/uc?export=view&id=18dnBuxLZ-uL71L_DnNpLyfzshprBT_HU)
+![image](Images/Size_type_attribute.png)
 
 
 ### Serial number and Check digit
@@ -192,7 +192,7 @@ Code                         |  description
 The serial number  |  six Arabic numerals, left at owner‘s or operator‘s option.
 The check digit |  one Arabic numeral providing a means of validating the recording and transmission accuracies of the owner code and serial number.
 
-![image](https://drive.google.com/uc?export=view&id=1NaaYgcaS1j0pw0e6XxRKXmUWGkP2D_-s)
+![image](Images/SerialCheck.jpg)
 <p align="left">
 <sub>(Example )</sub>
 </p>
@@ -206,7 +206,7 @@ The check digit |  one Arabic numeral providing a means of validating the record
 #### *value*
   Input the value representing the label.
 
-![image](https://drive.google.com/uc?export=view&id=1fDROEw-gKmkghHGiMfoqwyeOk1MZjw_i)
+![image](Images/Serial_attribute.png)
 
    
 
