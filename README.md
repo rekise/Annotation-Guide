@@ -38,10 +38,10 @@ There are multiple [Jobs](#jobs) to be annotated and each further branches into 
 
 
 
-![images](https://drive.google.com/uc?export=view&id=1lj4Wo7g8CzQLu7xDwk43bVOppJjcfrfu)
-<p align="right">
-<sub>(Preview)</sub>
-</p>
+ ![images](https://drive.google.com/uc?export=view&id=1lj4Wo7g8CzQLu7xDwk43bVOppJjcfrfu)
+  <p align="right">
+  <sub>(Preview)</sub>
+  </p>
 
 
 Terminology
